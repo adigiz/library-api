@@ -11,9 +11,9 @@ import (
 // @description Library API for borrowing book
 // @termsOfService http://swagger.io/terms/
 
-// @contact.name Dewa Awidiya
+// @contact.name Gizwanda
 // @contact.url http://www.swagger.io/support
-// @contact.email dewa.awidiya@shopee.com
+// @contact.email adigiz@yahoo.com
 
 // @license.name Apache 2.0
 // @license.url http://www.apache.org/licenses/LICENSE-2.0.html
