@@ -2,10 +2,10 @@ package server
 
 import (
 	"fmt"
-	"git.garena.com/sea-labs-id/trainers/library-api/config"
-	"git.garena.com/sea-labs-id/trainers/library-api/db"
-	repository "git.garena.com/sea-labs-id/trainers/library-api/repositories"
-	"git.garena.com/sea-labs-id/trainers/library-api/services"
+	"library-api/config"
+	"library-api/db"
+	repository "library-api/repositories"
+	"library-api/services"
 	"github.com/gin-gonic/gin"
 )
 

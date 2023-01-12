@@ -2,7 +2,7 @@ package db
 
 import (
 	"fmt"
-	"git.garena.com/sea-labs-id/trainers/library-api/config"
+	"library-api/config"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"

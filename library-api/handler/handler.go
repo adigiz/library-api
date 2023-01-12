@@ -1,7 +1,7 @@
 package handler
 
 import (
-	s "git.garena.com/sea-labs-id/trainers/library-api/services"
+	s "library-api/services"
 )
 
 type Handler struct {

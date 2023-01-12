@@ -1,7 +1,7 @@
 package middlewares
 
 import (
-	"git.garena.com/sea-labs-id/trainers/library-api/httperror"
+	"library-api/httperror"
 	"github.com/gin-gonic/gin"
 )
 

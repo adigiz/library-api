@@ -2,13 +2,13 @@ package services_test
 
 import (
 	"errors"
-	"git.garena.com/sea-labs-id/trainers/library-api/httperror"
+	"library-api/httperror"
 	"testing"
 
-	"git.garena.com/sea-labs-id/trainers/library-api/dto"
-	"git.garena.com/sea-labs-id/trainers/library-api/mocks"
-	"git.garena.com/sea-labs-id/trainers/library-api/models"
-	. "git.garena.com/sea-labs-id/trainers/library-api/services"
+	"library-api/dto"
+	"library-api/mocks"
+	"library-api/models"
+	. "library-api/services"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

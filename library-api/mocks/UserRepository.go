@@ -3,7 +3,7 @@
 package mocks
 
 import (
-	models "git.garena.com/sea-labs-id/trainers/library-api/models"
+	models "library-api/models"
 	mock "github.com/stretchr/testify/mock"
 )
 

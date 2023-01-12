@@ -1,8 +1,8 @@
 package services
 
 import (
-	"git.garena.com/sea-labs-id/trainers/library-api/models"
-	repository "git.garena.com/sea-labs-id/trainers/library-api/repositories"
+	"library-api/models"
+	repository "library-api/repositories"
 )
 
 type UserService interface {

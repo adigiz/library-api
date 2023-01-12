@@ -1,4 +1,4 @@
-module git.garena.com/sea-labs-id/trainers/library-api
+module library-api
 
 go 1.18
 

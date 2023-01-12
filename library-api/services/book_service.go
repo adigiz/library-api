@@ -1,10 +1,10 @@
 package services
 
 import (
-	"git.garena.com/sea-labs-id/trainers/library-api/dto"
-	"git.garena.com/sea-labs-id/trainers/library-api/httperror"
-	"git.garena.com/sea-labs-id/trainers/library-api/models"
-	repository "git.garena.com/sea-labs-id/trainers/library-api/repositories"
+	"library-api/dto"
+	"library-api/httperror"
+	"library-api/models"
+	repository "library-api/repositories"
 )
 
 type BookService interface {

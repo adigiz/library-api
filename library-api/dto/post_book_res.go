@@ -1,6 +1,6 @@
 package dto
 
-import "git.garena.com/sea-labs-id/trainers/library-api/models"
+import "library-api/models"
 
 type BookRes struct {
 	ID          uint   `json:"id"`

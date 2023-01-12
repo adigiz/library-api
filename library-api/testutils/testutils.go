@@ -2,7 +2,7 @@ package testutils
 
 import (
 	"encoding/json"
-	"git.garena.com/sea-labs-id/trainers/library-api/server"
+	"library-api/server"
 	"github.com/gin-gonic/gin"
 	"net/http"
 	"net/http/httptest"

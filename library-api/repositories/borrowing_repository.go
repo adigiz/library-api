@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"git.garena.com/sea-labs-id/trainers/library-api/models"
+	"library-api/models"
 	"gorm.io/gorm"
 	"gorm.io/gorm/clause"
 	"time"

@@ -3,7 +3,7 @@ package handler
 import (
 	"net/http"
 
-	"git.garena.com/sea-labs-id/trainers/library-api/dto"
+	"library-api/dto"
 	"github.com/gin-gonic/gin"
 )
 

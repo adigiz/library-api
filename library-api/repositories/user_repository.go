@@ -3,7 +3,7 @@ package repository
 import (
 	"errors"
 	"fmt"
-	"git.garena.com/sea-labs-id/trainers/library-api/models"
+	"library-api/models"
 	"gorm.io/gorm"
 )
 

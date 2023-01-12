@@ -1,10 +1,10 @@
 package server
 
 import (
-	"git.garena.com/sea-labs-id/trainers/library-api/dto"
-	"git.garena.com/sea-labs-id/trainers/library-api/handler"
-	"git.garena.com/sea-labs-id/trainers/library-api/middlewares"
-	"git.garena.com/sea-labs-id/trainers/library-api/services"
+	"library-api/dto"
+	"library-api/handler"
+	"library-api/middlewares"
+	"library-api/services"
 	"github.com/gin-gonic/gin"
 )
 

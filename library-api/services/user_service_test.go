@@ -2,9 +2,9 @@ package services_test
 
 import (
 	"errors"
-	"git.garena.com/sea-labs-id/trainers/library-api/mocks"
-	"git.garena.com/sea-labs-id/trainers/library-api/models"
-	. "git.garena.com/sea-labs-id/trainers/library-api/services"
+	"library-api/mocks"
+	"library-api/models"
+	. "library-api/services"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"git.garena.com/sea-labs-id/trainers/library-api/db"
-	"git.garena.com/sea-labs-id/trainers/library-api/server"
+	"library-api/db"
+	"library-api/server"
 )
 
 // @title Library API - Swagger Documentation

@@ -3,7 +3,7 @@
 package mocks
 
 import (
-	dto "git.garena.com/sea-labs-id/trainers/library-api/dto"
+	dto "library-api/dto"
 	mock "github.com/stretchr/testify/mock"
 )
 

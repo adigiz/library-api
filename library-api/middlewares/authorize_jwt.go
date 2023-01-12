@@ -3,9 +3,9 @@ package middlewares
 import (
 	"encoding/json"
 	"fmt"
-	"git.garena.com/sea-labs-id/trainers/library-api/config"
-	"git.garena.com/sea-labs-id/trainers/library-api/httperror"
-	"git.garena.com/sea-labs-id/trainers/library-api/models"
+	"library-api/config"
+	"library-api/httperror"
+	"library-api/models"
 	"github.com/gin-gonic/gin"
 	"github.com/golang-jwt/jwt/v4"
 	"strings"

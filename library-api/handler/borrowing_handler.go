@@ -1,7 +1,7 @@
 package handler
 
 import (
-	"git.garena.com/sea-labs-id/trainers/library-api/dto"
+	"library-api/dto"
 	"net/http"
 	"strconv"
 
